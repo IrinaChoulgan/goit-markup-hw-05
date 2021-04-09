@@ -651,6 +651,7 @@ footer .social-icons .icon {
 .portfolio-thumb {
   position: relative;
   overflow: hidden;
+  transition: border-color var(--animation);
 }
 .overlay {
   position: absolute;
