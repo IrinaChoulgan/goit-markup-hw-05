@@ -197,11 +197,11 @@ button:focus {
   line-height: 1.19;
   letter-spacing: 0.03em;
   font-family: Raleway;
-  transition: color, var(--animation);
 }
 .logo-color {
   color: var(--accent-color);
   margin: 24px, 93px, 25px, 215px;
+  transition: color, var(--animation);
 }
 .dark-bg .logo {
   color: var(--dark-bg-text-color);
